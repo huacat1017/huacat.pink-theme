@@ -17,7 +17,7 @@
         "pink theme",
         "huacat pink theme"
     ],
-    "icon": "logo.png",
+    "icon": "https://github.com/huacat1017/huacat.pink-theme-0.0.1/blob/master/logo.png",
     "contributes": {
         "themes": [
             {
