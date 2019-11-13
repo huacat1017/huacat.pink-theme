@@ -3,12 +3,14 @@
 	"type": "light",
 	"colors": {
 		// Base
-		"foreground": "#5e5e5e",
-		"descriptionForeground": "#5e5e5e",
+		"foreground": "#72696f",
+		"focusBorder": "#d4d4d4",
+		"selection.background": "#ecc3e198",
+		"icon.foreground": "#dd71b9",
 		// Text
-		"textLink.activeForeground": "#aa71ff",
+		"textLink.activeForeground": "#dd71b98c",
 		"textLink.foreground": "#dd71b9",
-		"textPreformat.foreground": "#d4985f",
+		"textPreformat.foreground": "#d4985f",// d4985f
 		// activity bar
 		"activityBar.background": "#f1def1aa",
 		"activityBar.foreground": "#dd71b9",
@@ -30,8 +32,10 @@
 		"editorLineNumber.activeForeground": "#dc69c9",
 		"editorLineNumber.foreground": "#72696f",
 		"editorWhitespace.foreground": "#aaaaaa",
+		"editorHoverWidget.background": "#f3eaf3",
+		"editorHoverWidget.foreground": "#72696f",
+		"editorHoverWidget.border": "#f1def1",
 		"errorForeground": "#f1897f",
-		"focusBorder": "#d4d4d4",
 		//input
 		"inputOption.activeBorder": "#adafb7",
 		"inputValidation.errorBackground": "#ffeaea",
@@ -55,7 +59,7 @@
 		"notificationCenterHeader.background": "#f1def1aa",
 		"notifications.background": "#f1def1aa",
 		"notifications.foreground": "#dd71b9",
-		"panel.background": "#eee5eeaa",
+		"panel.background": "#f3eaf3",
 		//peek view
 		"peekView.border": "#705697",
 		"peekViewEditor.background": "#f2f8fc",
@@ -72,7 +76,6 @@
 		"scrollbarSlider.activeBackground": "#f0b7f0cc",
 		"scrollbarSlider.hoverBackground": "#f0cef1aa",
 
-		"selection.background": "#c9d0d9",
 		//side bar
 		"sideBar.background": "#f3eaf3",
 		"sideBarSectionHeader.background": "#f3eaf3",
@@ -106,11 +109,11 @@
 		"terminal.ansiWhite": "#72696f",
 		"terminal.ansiBrightWhite": "#978c94",
 		"terminalCursor.foreground": "#dd71b9aa",
-		"terminal.background": "#f2eef2",
+		"terminal.background": "#f3eaf3",
 		"terminal.foreground": "#72696f",
 
 		"titleBar.activeBackground": "#f1def1aa",
-		"walkThrough.embeddedEditorBackground": "#ff0000"
+		"walkThrough.embeddedEditorBackground": "#00000017"
 	},
 	"tokenColors":[
 		{
