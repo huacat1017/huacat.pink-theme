@@ -11,6 +11,8 @@
 		"textLink.activeForeground": "#dd71b98c",
 		"textLink.foreground": "#dd71b9",
 		"textPreformat.foreground": "#d4985f",// d4985f
+		"textBlockQuote.background": "#f1def1aa",
+		"textBlockQuote.border": "#dd71b977",
 		// activity bar
 		"activityBar.background": "#f1def1aa",
 		"activityBar.foreground": "#dd71b9",
