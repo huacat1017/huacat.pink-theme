@@ -1,5 +1,5 @@
 {
-    "name": "theme",
+    "name": "pink-theme",
     "displayName": "Huacat Pink Theme",
     "description": "A cool pink theme for VScode.",
     "publisher": "huacat",
@@ -20,7 +20,7 @@
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/huacat1017/huacat.pink-theme-0.0.1"
+        "url": "https://github.com/huacat1017/huacat.pink-theme"
     },
     "contributes": {
         "themes": [

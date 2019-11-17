@@ -8,9 +8,9 @@
 		"selection.background": "#ecc3e198",
 		"icon.foreground": "#dd71b9",
 		// Text
-		"textLink.activeForeground": "#dd71b98c",
+		"textLink.activeForeground": "#dd71b999",
 		"textLink.foreground": "#dd71b9",
-		"textPreformat.foreground": "#d4985f",// d4985f
+		"textPreformat.foreground": "#d4985f",
 		"textBlockQuote.background": "#f1def1aa",
 		"textBlockQuote.border": "#dd71b977",
 		// activity bar
@@ -25,14 +25,15 @@
 		// editor
 		"editor.background": "#f3eaf3",
 		"editor.foreground": "#72696f",
-		"editor.findMatchBackground": "#bf9cac",
-		"editor.findMatchHighlightBackground": "#e7c7d5",
+		"editor.findMatchBackground": "#ecc3e198",
+		"editor.findMatchHighlightBackground": "#ecc3e162",
 		"editor.lineHighlightBackground": "#f1def1aa",
 		"editor.selectionBackground": "#ecc3e198",
 		"editorCursor.foreground": "#54494b",
 		"editorGroup.dropBackground": "#c9d0d988",
-		"editorLineNumber.activeForeground": "#dc69c9",
+		"editorLineNumber.activeForeground": "#dd71b9",
 		"editorLineNumber.foreground": "#72696f",
+		"editorLink.activeForeground": "#dd71b9d5",
 		"editorWhitespace.foreground": "#aaaaaa",
 		"editorHoverWidget.background": "#f3eaf3",
 		"editorHoverWidget.foreground": "#72696f",
@@ -70,13 +71,17 @@
 		"peekViewResult.matchHighlightBackground": "#93c6d6",
 		"peekViewTitle.background": "#f2f8fc",
 
-		"pickerGroup.border": "#72696f",
-		"pickerGroup.foreground": "#978c94",
+		"pickerGroup.border": "#dd71b9",//72696f
+		"pickerGroup.foreground": "#dd71b9",//978c94
 		"progressBar.background": "#dd71b9",
 		//scroll bar
 		"scrollbarSlider.background": "#dfdfdf",
 		"scrollbarSlider.activeBackground": "#f0b7f0cc",
 		"scrollbarSlider.hoverBackground": "#f0cef1aa",
+
+		// minimap
+		"minimap.selectionHighlight": "#ecc3e198",
+		"minimap.findMatchHighlight": "#ecc3e198",
 
 		//side bar
 		"sideBar.background": "#f3eaf3",
@@ -115,6 +120,7 @@
 		"terminal.foreground": "#72696f",
 
 		"titleBar.activeBackground": "#f1def1aa",
+		"titleBar.activeForeground": "#72696f",
 		"walkThrough.embeddedEditorBackground": "#00000017"
 	},
 	"tokenColors":[
@@ -239,7 +245,7 @@
 		{
 			"name": "JSON",
 			"scope":[
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#9045d6"
