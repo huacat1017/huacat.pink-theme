@@ -21,7 +21,7 @@
 
 		"badge.background": "#dd71b9aa",
 		"button.background": "#dd71b9aa",
-		"dropdown.background": "#f1e7f1",
+		"dropdown.background": "#f3eaf3",
 		// editor
 		"editor.background": "#f3eaf3",
 		"editor.foreground": "#72696f",
@@ -30,6 +30,8 @@
 		"editor.lineHighlightBackground": "#f1def1aa",
 		"editor.selectionBackground": "#ecc3e198",
 		"editorCursor.foreground": "#54494b",
+		"editor.selectionHighlightBackground": "#ecc3e198",
+		"editor.hoverHighlightBackground": "#ecc3e162",
 		"editorGroup.dropBackground": "#c9d0d988",
 		"editorLineNumber.activeForeground": "#dd71b9",
 		"editorLineNumber.foreground": "#72696f",
@@ -38,6 +40,10 @@
 		"editorHoverWidget.background": "#f3eaf3",
 		"editorHoverWidget.foreground": "#72696f",
 		"editorHoverWidget.border": "#f1def1",
+		"editorWarning.foreground": "#e2b213",
+		"editorError.foreground": "#d14040",
+		"editorBracketMatch.background": "#f1def1",
+		"editorBracketMatch.border": "#ecc3e1",
 		"errorForeground": "#f1897f",
 		//input
 		"inputOption.activeBorder": "#adafb7",
@@ -59,8 +65,8 @@
 		"list.inactiveSelectionForeground": "#dd71b9",
 		"list.dropBackground": "#f1def1aa",
 		//notification
-		"notificationCenterHeader.background": "#f1def1aa",
-		"notifications.background": "#f1def1aa",
+		"notificationCenterHeader.background": "#f3eaf3",
+		"notifications.background": "#f3eaf3",
 		"notifications.foreground": "#dd71b9",
 		"panel.background": "#f3eaf3",
 		//peek view
@@ -71,13 +77,15 @@
 		"peekViewResult.matchHighlightBackground": "#93c6d6",
 		"peekViewTitle.background": "#f2f8fc",
 
-		"pickerGroup.border": "#dd71b9",//72696f
-		"pickerGroup.foreground": "#dd71b9",//978c94
+		"pickerGroup.border": "#dd71b980",
+		"pickerGroup.foreground": "#dd71b9",
 		"progressBar.background": "#dd71b9",
 		//scroll bar
 		"scrollbarSlider.background": "#dfdfdf",
 		"scrollbarSlider.activeBackground": "#f0b7f0cc",
 		"scrollbarSlider.hoverBackground": "#f0cef1aa",
+
+		// menu
 
 		// minimap
 		"minimap.selectionHighlight": "#ecc3e198",
@@ -121,7 +129,10 @@
 
 		"titleBar.activeBackground": "#f1def1aa",
 		"titleBar.activeForeground": "#72696f",
-		"walkThrough.embeddedEditorBackground": "#00000017"
+		// welcome page
+		"welcomePage.buttonBackground": "#f1def1",
+		"welcomePage.buttonHoverBackground": "#f1def1aa",
+		"walkThrough.embeddedEditorBackground": "#f3eaf3"
 	},
 	"tokenColors":[
 		{
