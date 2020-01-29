@@ -1,4 +1,8 @@
 # Change Log
+## Version 0.1.0 (2020.01.28)
+  - **HTML CSS syntax highlight support!**
+  ![s](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/html.png)![ss](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/css.png)
+
 ## Version 0.0.4 (2019.11.18)
 ### Added
   - editorError.foreground, editorWarning.foreground

@@ -136,6 +136,16 @@
 	},
 	"tokenColors":[
 		{
+			"name": "Punctuation",
+			"scope": [
+				"punctuation.separator",
+				"punctuation.terminator"
+			],
+			"settings": {
+				"foreground": "#d162ac"
+			}
+		},
+		{
 			"name": "Comment",
 			"scope":[
 				"comment.line",
@@ -176,16 +186,6 @@
 			}
 		},
 		{
-			"name": "Punctuation",
-			"scope": [
-				"punctuation.terminator",
-				"punctuation.separator"
-			],
-			"settings": {
-				"foreground": "#d162ac"
-			}
-		},
-		{
 			"name": "Keyword",
 			"scope":[
 				"keyword",
@@ -217,6 +217,7 @@
 			],
 			"settings": {
 				"foreground": "#db6363",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -261,6 +262,60 @@
 			"settings": {
 				"foreground": "#9045d6"
 			}
-		}
+		},
+		{
+			"name": "HTML CSS XML name",
+			"scope":[
+				"entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#db6363"
+			}
+		},
+		{
+			"name": "HTML XML tag outer",
+			"scope":[
+				"meta.tag"
+			],
+			"settings": {
+				"foreground": "#559fe4"
+			}
+		},
+		{
+			"name": "HTML XML tag inner",
+			"scope":[
+				"entity.name.tag"
+			],
+			"settings": {
+				"foreground": "#5782df"
+			}
+		},
+		{
+			"name": "CSS class",
+			"scope":[
+				"entity.other.attribute-name.class"
+			],
+			"settings": {
+				"foreground": "#dba15e"
+			}
+		},
+		{
+			"name": "CSS id",
+			"scope":[
+				"entity.other.attribute-name.id"
+			],
+			"settings": {
+				"foreground": "#9045d6"
+			}
+		},
+		{
+			"name": "CSS Selector",
+			"scope":[
+				"support.constant.property-value",
+			],
+			"settings": {
+				"foreground": "#62ad44"
+			}
+		},
 	]
 }

@@ -2,6 +2,7 @@
 A VSCODE pink theme is coming!
 ## Screenshot
 ![Screenshot](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/screenshot.png)
+![html](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/html.png)![css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/css.png)
 
 ## Installation
 1. Click Extensions from acivity bar.
