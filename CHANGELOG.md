@@ -1,5 +1,5 @@
 # Change Log
-## Version 0.1.0 (2020.01.28)
+## Version 0.1.0 (2020.01.29)
   - **HTML CSS syntax highlight support!**
   ![s](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/html.png)![ss](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/css.png)
 
