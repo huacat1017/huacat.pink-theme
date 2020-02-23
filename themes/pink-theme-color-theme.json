@@ -56,7 +56,7 @@
 		"inputValidation.warningBackground": "#fffee2",
 		"inputValidation.warningBorder": "#ffe055",
 		// List
-		"list.activeSelectionBackground": "#f5eaf5",
+		"list.activeSelectionBackground": "#f5eaf500",
 		"list.activeSelectionForeground": "#dd71b9",
 		"list.focusBackground": "#f5eaf5",
 		"list.focusForeground": "#dd71b9",
@@ -88,6 +88,8 @@
 		"scrollbarSlider.hoverBackground": "#f0cef1aa",
 
 		// menu
+		"menubar.selectionBackground": "#f5eaf5",
+		"menubar.selectionForeground": "#dd71b9",
 
 		// minimap
 		"minimap.selectionHighlight": "#ecc3e198",
@@ -102,6 +104,8 @@
 		"statusBar.debuggingBackground": "#9045d6",
 		"statusBar.debuggingForeground": "#f3eaf3",
 		"statusBar.noFolderBackground": "#f5eaf5",
+		"statusBarItem.hoverBackground": "#f0cef1aa",
+		"statusBarItem.activeBackground": "#e4c4e6aa",
 		//"statusBarItem.remoteBackground": "#4e3c69",
 		// tab
 		"tab.activeBorder": "#dd71b9",
@@ -132,6 +136,8 @@
 
 		"titleBar.activeBackground": "#f5eaf5",
 		"titleBar.activeForeground": "#72696f",
+		"titleBar.inactiveBackground": "#f5eaf5",
+		"titleBar.inactiveForeground": "#978c94",
 		// welcome page
 		"welcomePage.buttonBackground": "#f5eaf5",
 		"welcomePage.buttonHoverBackground": "#f5eaf5",

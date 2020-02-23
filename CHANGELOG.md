@@ -1,4 +1,13 @@
 # Change Log
+## Version 0.1.2 (2020.2.23)
+### Fixed
+  - different titlebar color bug
+  - list.activeSelectionBackground
+  - statusBarItem hover, acitive color
+
+### Recolored
+  - menubar selection color
+
 ## Version 0.1.1 (2020.2.22)
 ### Recolored
   - statusBar.debugging color
