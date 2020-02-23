@@ -1,7 +1,7 @@
 # Huacat Pink Theme
 A VSCODE pink theme is coming!
 
-![DOWNLOADS](https://vsmarketplacebadge.apphb.com/downloads-short/huacat.pink-theme.svg?style=for-the-badge&colorA=dd71b9&colorB=ed81c9&label=DOWNLOADS)
+![DOWNLOADS](https://vsmarketplacebadge.apphb.com/downloads-short/huacat.pink-theme.svg?style=for-the-badge&colorA=dd71b9&colorB=ed81c9&label=DOWNLOADS)  ![VERSION](https://vsmarketplacebadge.apphb.com/version-short/huacat.pink-theme.svg?style=for-the-badge&colorA=72696f&colorB=978c94&label=VERSION)
 ## Screenshot
 ![Screenshot](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/screenshot.png)
 ![html-css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/html-css.png)
