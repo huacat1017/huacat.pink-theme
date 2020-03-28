@@ -1,5 +1,5 @@
 # Change Log
-## Version 0.1.3 (2020)
+## Version 0.1.3 (2020.3.28)
 ### Recolored
   - dropdown color
   - peek view color
