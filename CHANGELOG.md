@@ -1,4 +1,16 @@
 # Change Log
+## Version 0.1.3 (2020)
+### Recolored
+  - dropdown color
+  - peek view color
+  - extension Button color
+  - editorGroup.dropBackground
+  - editor.findMatch color
+  - minimap color
+
+### Added
+  - menu.background color
+
 ## Version 0.1.2 (2020.2.23)
 ### Fixed
   - different titlebar color bug

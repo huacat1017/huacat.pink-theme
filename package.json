@@ -3,7 +3,7 @@
     "displayName": "Huacat Pink Theme",
     "description": "A cool pink theme for VScode.",
     "publisher": "huacat",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "engines": {
         "vscode": "^1.33.0"
     },
