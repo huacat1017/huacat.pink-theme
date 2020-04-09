@@ -146,6 +146,8 @@
 		"titleBar.activeForeground": "#72696f",
 		"titleBar.inactiveBackground": "#f5eaf5",
 		"titleBar.inactiveForeground": "#978c94",
+
+		"quickInput.background": "#f5eaf5",
 		// welcome page
 		"welcomePage.buttonBackground": "#f5eaf5",
 		"welcomePage.buttonHoverBackground": "#f5eaf5",
@@ -164,7 +166,7 @@
 				"punctuation.terminator"
 			],
 			"settings": {
-				"foreground": "#d162ac"
+				"foreground": "#dd71b9"
 			}
 		},
 		{
@@ -337,6 +339,103 @@
 			],
 			"settings": {
 				"foreground": "#62ad44"
+			}
+		},
+		{
+			"name": "Markdown heading",
+			"scope":[
+				"markup.heading",
+				"markup.heading entity.name"
+			],
+			"settings": {
+				"foreground": "#5782df"
+			}
+		},
+		{
+			"name": "Markdown list",
+			"scope":[
+				"markup.list punctuation.definition.list.begin",
+			],
+			"settings": {
+				"foreground": "#dd71b9"
+			}
+		},
+		{
+			"name": "Markdown link",
+			"scope":[
+				"markup.underline.link",
+			],
+			"settings": {
+				"foreground": "#a770db"
+			}
+		},
+		{
+			"name": "Markdown bold",
+			"scope":[
+				"markup.bold",
+			],
+			"settings": {
+				"foreground": "#db6363",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markdown italic",
+			"scope":[
+				"markup.italic",
+			],
+			"settings": {
+				"foreground": "#db6363",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown italic",
+			"scope":[
+				"markup.italic",
+			],
+			"settings": {
+				"foreground": "#db6363",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown italic",
+			"scope":[
+				"markup.italic",
+			],
+			"settings": {
+				"foreground": "#db6363",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown italic bold",
+			"scope":[
+				"markup.italic markup.bold",
+				"markup.bold markup.italic",
+			],
+			"settings": {
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"name": "Markdown code",
+			"scope":[
+				"text.html.markdown markup.inline.raw"
+			],
+			"settings": {
+				"foreground": "#62ad44",
+			}
+		},
+		{
+			"name": "Markdown quote",
+			"scope":[
+				"markup.quote"
+			],
+			"settings": {
+				"foreground": "#99ca82",
+				"fontStyle": "italic"
 			}
 		},
 	]

@@ -1,4 +1,9 @@
 # Change Log
+## Version 0.2.0 (2020.4)
+- **Markdown syntax highlight support!**
+- Punctuation color changes to `#dd71b9`
+- Fix quickInput background color (White->Soft Pink)
+
 ## Version 0.1.3 (2020.3.28)
 ### Recolored
   - dropdown color

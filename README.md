@@ -19,3 +19,7 @@ In the Screenshot is using  [Fira Code](https://github.com/tonsky/FiraCode/wiki/
 
 ## Icon
 If you want the icon in the screenshot, click Extensions and install `Material Icon Theme`.
+
+## Any Bugs?
+You can [Report Issues](https://github.com/huacat1017/huacat.pink-theme/issues) on Github,
+<br/>Let fix it.
