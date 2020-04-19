@@ -1,8 +1,14 @@
 # Change Log
-## Version 0.2.0 (2020.4)
+## Version 0.3.1 (2020.4.19)
+- textPreformat.foreground recolored to `#9045d6`
+- Fix editorMarkerNavigation
+- Fix editor.selectionHighlightBackground
+
+## Version 0.3.0 (2020.4.09)
 - **Markdown syntax highlight support!**
 - Punctuation color changes to `#dd71b9`
 - Fix quickInput background color (White->Soft Pink)
+- **NOTE: 0.3.0 and 0.2.0 are the same version**
 
 ## Version 0.1.3 (2020.3.28)
 ### Recolored
