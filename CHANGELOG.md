@@ -46,7 +46,10 @@
 
 ## Version 0.1.0 (2020.01.29)
   - **HTML CSS syntax highlight support!**
-  ![html-css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/html.png)
+  ### HTML screenshot
+  ![html](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/html.png)
+  ### CSS screenshot
+  ![css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/css.png)
 
 ## Version 0.0.4 (2019.11.18)
 ### Added
