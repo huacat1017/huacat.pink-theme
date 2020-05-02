@@ -9,7 +9,7 @@
 ### HTML
 ![html](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/html.png)
 ### CSS
-![html](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/css.png)
+![css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/css.png)
 ### Markdown
 ![markdown](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/markdown.png)
 
