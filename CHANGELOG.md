@@ -10,6 +10,7 @@
 
 ## Version 0.3.0 (2020.4.09)
 - **Markdown syntax highlight support!**
+![markdown](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/markdown.png)
 - Punctuation color changes to `#dd71b9`
 - Fix quickInput background color (White->Soft Pink)
 - **NOTE: 0.3.0 and 0.2.0 are the same version**

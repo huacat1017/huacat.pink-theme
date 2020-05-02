@@ -6,7 +6,10 @@
 ![Screenshot](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/screenshot.png)
 
 ## Syntaxes
+### HTML
 ![html](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/html.png)
+### Markdown
+![markdown](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/markdown.png)
 
 ## Installations
 ### Installtion 1
