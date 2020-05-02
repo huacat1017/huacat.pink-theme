@@ -1,4 +1,8 @@
 # Change Log
+## Version 0.3.2 (2020.5.02)
+- Colored gitDecoration foreground
+- **Colorful JSON syntax**
+
 ## Version 0.3.1 (2020.4.19)
 - textPreformat.foreground recolored to `#9045d6`
 - Fix editorMarkerNavigation
@@ -41,7 +45,7 @@
 
 ## Version 0.1.0 (2020.01.29)
   - **HTML CSS syntax highlight support!**
-  ![html-css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/html-css.png)
+  ![html-css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/html.png)
 
 ## Version 0.0.4 (2019.11.18)
 ### Added
