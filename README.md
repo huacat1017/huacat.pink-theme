@@ -12,6 +12,8 @@
 ![css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/css.png)
 ### Markdown
 ![markdown](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/markdown.png)
+### C/C++
+![c_cpp](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/c_cpp.png)
 
 ## Installations
 ### Installtion 1
