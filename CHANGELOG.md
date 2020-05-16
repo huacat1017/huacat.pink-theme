@@ -1,19 +1,34 @@
 # Change Log
+## Version 0.3.3 (2020.5.16)
+### Theme Colors
+- `editor.findMatchBorder` recolored to `dd71b9`
+- `editorHoverWidget` (statusBar, border)
+- Fix `editor.wordHighlightBackground` and `editor.wordHighlightStrongBackground`
+
+### Syntax Colors
+- Add `meta.function-call.generic` to "Function" group (`#a770db`)
+
+### Package info
+- You will never see `screenshot.png` and `menu.png` on extension folder. 
+(It located on github)
+
+
 ## Version 0.3.2 (2020.5.02)
-- Colored gitDecoration foreground
+- Colored `gitDecoration foreground`
 - **Colored Colorful JSON syntax!**
 ![json](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/json.png)
 
 ## Version 0.3.1 (2020.4.19)
-- textPreformat.foreground recolored to `#9045d6`
-- Fix editorMarkerNavigation
-- Fix editor.selectionHighlightBackground
+- `textPreformat.foreground` recolored to `#9045d6`
+- Fix `editorMarkerNavigation`
+- Fix `editor.selectionHighlightBackground`
+- Created license on my repo and extension
 
 ## Version 0.3.0 (2020.4.09)
 - **Markdown syntax highlight support!**
 ![markdown](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/markdown.png)
-- Punctuation color changes to `#dd71b9`
-- Fix quickInput background color (White->Soft Pink)
+- `Punctuation` color changes to `#dd71b9`
+- Fix `quickInput background` color (White->Soft Pink)
 - **NOTE: 0.3.0 and 0.2.0 are the same version**
 
 ## Version 0.1.3 (2020.3.28)
