@@ -20,6 +20,7 @@
 		"activityBarBadge.background": "#dd71b9",
 
 		"badge.background": "#dd71b9aa",
+		"breadcrumbPicker.background": "#f5eaf5",
 		"button.background": "#dd71b9aa",
 
 		"dropdown.background": "#ffffff",
@@ -30,7 +31,7 @@
 		"editor.findMatchBackground": "#ecc3e198",
 		"editor.findMatchBorder": "#dd71b9",
 		"editor.findMatchHighlightBackground": "#ecc3e15d",
-		"editor.lineHighlightBackground": "#f5eaf5",
+		"editor.lineHighlightBackground": "#ecc3e158",
 		"editor.hoverHighlightBackground": "#ecc3e162",
 		"editor.selectionBackground": "#ecc3e198",
 		"editor.selectionHighlightBackground": "#d6c6d398",
@@ -161,8 +162,8 @@
 
 		"quickInput.background": "#f5eaf5",
 		// welcome page
-		"welcomePage.buttonBackground": "#f5eaf5",
-		"welcomePage.buttonHoverBackground": "#f5eaf5",
+		"welcomePage.buttonBackground": "#ecc3e158",
+		"welcomePage.buttonHoverBackground": "#ecc3e198",
 		"walkThrough.embeddedEditorBackground": "#f5eaf5",
 
 		// debug tool
@@ -237,6 +238,7 @@
 			"name": "Type",
 			"scope":[
 				"storage.type",
+				"support.type"
 			],
 			"settings":{
 				"foreground": "#62ad44",

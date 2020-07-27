@@ -1,4 +1,17 @@
 # Change Log
+## Version 0.3.4 (2020.7.27)
+### Theme Colors
+- `breadcrumbPicker.background` recolored to `#f5eaf5`
+- `editor.lineHighlightBackground` recolored to `#ecc3e158`
+- `welcomePage.buttonBackground` recolore to `#ecc3e158`
+- `welcomePage.buttonHoverBackground` recolored to `#ecc3e198`
+
+### Syntax Colors
+- Add `support.type` to Type Group
+
+### Others
+- Update screenshot.png
+
 ## Version 0.3.3 (2020.5.16)
 ### Theme Colors
 - `editor.findMatchBorder` recolored to `dd71b9`
