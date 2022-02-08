@@ -1,4 +1,14 @@
 # Change Log
+## Version 0.4.0 (2022.2.8)
+### Theme Colors
+- Recolored editorSuggestWidget(add selection bg etc.)
+- Improved peek view(to be different from `editor.background`)
+- Improved listFilterWidget(->pink and frosted)
+- Make `scrollbarSlider.background` more transparent(or it would cover something like editorOverviewRuler)
+- Recolored breadcrumb(foreground)
+- Recolored `editor.findMatchBorder`(lighter)
+- Make welcome walkthroughs tiles more pinky(It seems like that [Update 1.61](https://code.visualstudio.com/updates/v1_61) added these properties)
+
 ## Version 0.3.4 (2020.7.27)
 ### Theme Colors
 - `breadcrumbPicker.background` recolored to `#f5eaf5`
