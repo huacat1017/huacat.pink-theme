@@ -28,20 +28,14 @@
 
 ### Installtion 2
 1. Open `Command Palette...`.
-2. Type 
-```
-ext install huacat.pink-theme
-```
-
-and press enter.
+2. Type `ext install huacat.pink-theme` and press enter.
 
 ## Font
-In the Screenshot is using  [Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions).
+Font in the Screenshot is [Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions).
 
 ## Icon
 If you want the icon in the screenshot, click Extensions and install `Material Icon Theme`.
 
 ## Any Bugs?
-You can [Report Issues](https://github.com/huacat1017/huacat.pink-theme/issues) on Github,\
-Let fix it.\
-(You can also correct my grammer in this extension.)
+You can [Report Issues](https://github.com/huacat1017/huacat.pink-theme/issues) on Github and help us fix it.
+(You can also correct my grammar in this extension.)
