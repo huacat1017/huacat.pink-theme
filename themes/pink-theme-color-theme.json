@@ -306,18 +306,18 @@
 		{
 			"name": "Variable",
 			"scope": [
-					"support.variable",
-					"variable"
+				"support.variable",
+				"variable"
 			],
 			"settings": {
-					"foreground": "#72696f"
+				"foreground": "#72696f"
 			}
 		},
 		{
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-					"foreground": "#559fe4"
+				"foreground": "#559fe4"
 			}
 		},
 		{
