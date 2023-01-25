@@ -1,8 +1,10 @@
 # Change Log
 ## Version `0`.`4`.`1` (2023.1.25)
 ### Theme Colors
+- Recolored all the bracket pairs
 - Specified find/replace dialog in the editor
 - Specified editorStickyScroll bg color
+- Specified statusBar Prominent Item color
 - Removed list.FilterWidget bg transparent
 
 ### Syntax Colors
@@ -12,7 +14,7 @@
 ### Others
 - Updated vscode marketplace badge
 - ([#1](https://github.com/huacat1017/huacat.pink-theme/pull/1)) Fixed some grammer problems on [README.md](https://github.com/huacat1017/huacat.pink-theme/pull/1/files)
-- Created [code templates]() folder to develop it easier.
+- Created [code templates](https://github.com/huacat1017/huacat.pink-theme/tree/master/syntax/code%20templates) folder to develop it easier.
 
 ## Version 0.4.0 (2022.2.8)
 ### Theme Colors
