@@ -1,5 +1,5 @@
 ![MENU](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/image/menu.png)
-<center><img src="https://vsmarketplacebadge.apphb.com/downloads-short/huacat.pink-theme.svg?style=for-the-badge&colorA=dd71b9&colorB=ed81c9&label=DOWNLOADS">  <img src="https://vsmarketplacebadge.apphb.com/version-short/huacat.pink-theme.svg?style=for-the-badge&colorA=72696f&colorB=978c94&label=VERSION"></center>
+<center><img src="https://vsmarketplacebadges.dev/downloads-short/huacat.pink-theme.svg?style=for-the-badge&colorA=dd71b9&colorB=ed81c9&label=DOWNLOADS">  <img src="https://vsmarketplacebadges.dev/version-short/huacat.pink-theme.svg?style=for-the-badge&colorA=72696f&colorB=978c94&label=VERSION"></center>
 
 
 ## Screenshots

@@ -1,4 +1,19 @@
 # Change Log
+## Version `0`.`4`.`1` (2023.1.25)
+### Theme Colors
+- Specified find/replace dialog in the editor
+- Specified editorStickyScroll bg color
+- Removed list.FilterWidget bg transparent
+
+### Syntax Colors
+- ([#2](https://github.com/huacat1017/huacat.pink-theme/issues/2)) Replaced light green/yellow color with darker one (also JSON/Terminal ones)
+- Added global foreground setting
+
+### Others
+- Updated vscode marketplace badge
+- ([#1](https://github.com/huacat1017/huacat.pink-theme/pull/1)) Fixed some grammer problems on [README.md](https://github.com/huacat1017/huacat.pink-theme/pull/1/files)
+- Created [code templates]() folder to develop it easier.
+
 ## Version 0.4.0 (2022.2.8)
 ### Theme Colors
 - Recolored editorSuggestWidget(add selection bg etc.)
