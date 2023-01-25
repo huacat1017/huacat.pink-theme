@@ -12,8 +12,9 @@
 - Added global foreground setting
 
 ### Others
-- Updated vscode marketplace badge
 - ([#1](https://github.com/huacat1017/huacat.pink-theme/pull/1)) Fixed some grammer problems on [README.md](https://github.com/huacat1017/huacat.pink-theme/pull/1/files)
+- Updated vscode marketplace badge
+- Updated [json.png](https://github.com/huacat1017/huacat.pink-theme/blob/master/syntax/json.png) in Screenshot
 - Created [code templates](https://github.com/huacat1017/huacat.pink-theme/tree/master/syntax/code%20templates) folder to develop it easier.
 
 ## Version 0.4.0 (2022.2.8)
