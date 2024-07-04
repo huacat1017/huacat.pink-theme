@@ -28,6 +28,11 @@
                 "label": "Huacat Pink Theme",
                 "uiTheme": "vs",
                 "path": "./themes/pink-theme-color-theme.json"
+            },
+            {
+                "label": "Huacat Pink Dark",
+                "uiTheme": "vs",
+                "path": "./themes/dark-color-theme.json"
             }
         ]
     }
