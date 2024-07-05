@@ -3,7 +3,10 @@
 
 
 ## Screenshots
+### Huacat Pink Theme (Original)
 ![Screenshot](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/image/screenshot.png)
+### <span style="color:#ff0000">**\*NEW!\***</span> Huacat Pink <ins>Dark</ins>
+![Screenshot-dark](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/image/dark-screenshot.png)
 
 ## Syntaxes
 ### HTML

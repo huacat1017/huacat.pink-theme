@@ -31,7 +31,7 @@
             },
             {
                 "label": "Huacat Pink Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/dark-color-theme.json"
             }
         ]

@@ -1,15 +1,22 @@
 # Change Log
+## `1`.`0`.`0` (2024.7.5)
+### **✅NEW THEME** "Huacat Pink Dark"
+### Other changes
+- Fix CSS property color
+- Color statusBar remote and compact bg/fg
+- Recolor peekView
+
 ## Version `0`.`4`.`1` (2023.1.25)
 ### Theme Colors
-- Recolored all the bracket pairs
-- Specified find/replace dialog in the editor
-- Specified editorStickyScroll bg color
-- Specified statusBar Prominent Item color
-- Removed list.FilterWidget bg transparent
+- Recolor all the bracket pairs
+- Specifiy find/replace dialog in the editor
+- Specifiy editorStickyScroll bg color
+- Specifiy statusBar Prominent Item color
+- Remove list.FilterWidget bg transparent
 
 ### Syntax Colors
-- ([#2](https://github.com/huacat1017/huacat.pink-theme/issues/2)) Replaced light green/yellow color with darker one (also JSON/Terminal ones)
-- Added global foreground setting
+- ([#2](https://github.com/huacat1017/huacat.pink-theme/issues/2)) Replace light green/yellow color with darker one (also JSON/Terminal ones)
+- Add global foreground setting
 
 ### Others
 - ([#1](https://github.com/huacat1017/huacat.pink-theme/pull/1)) Fixed some grammer problems on [README.md](https://github.com/huacat1017/huacat.pink-theme/pull/1/files)

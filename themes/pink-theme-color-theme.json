@@ -78,6 +78,7 @@
 		"editorWhitespace.foreground": "#aaaaaa",
 		"editorWarning.foreground": "#e2b213",
 		"errorForeground": "#f1897f",
+		"descriptionForeground": "#5f585d",
 
 		// extension
 		"extensionButton.prominentBackground": "#dd71b9",
@@ -119,16 +120,16 @@
 		"panel.background": "#f5eaf5",
 		// peek view
 		"peekView.border": "#dd71b9",
-		"peekViewTitle.background": "#f3e7f3",
+		"peekViewTitle.background": "#f3e0f3",
 		"peekViewTitleDescription.foreground": "#6b5d72",
 		"peekViewTitleLabel.foreground": "#dd71b9",
 		"peekViewEditor.background": "#f3e0f3",
 		"peekViewEditor.matchHighlightBorder": "#dd71b9bb",
 		"peekViewEditor.matchHighlightBackground": "#ecc3e15d",
 		"peekViewEditorGutter.background": "#f3e0f3",
-		"peekViewResult.background": "#f5eaf5",
+		"peekViewResult.background": "#f3e0f3",
 		"peekViewResult.selectionBackground": "#ecc3e162",
-		"peekViewResult.selectionForeground": "#dd71b9",
+		"peekViewResult.selectionForeground": "#2e2d2d",
 		"peekViewResult.matchHighlightBackground": "#ecc3e198",
 		"peekViewResult.lineForeground": "#72696f",
 		"peekViewResult.fileForeground": "#6b5d72",
@@ -164,7 +165,11 @@
 		"statusBarItem.prominentBackground": "#ecc3e150",
 		"statusBarItem.prominentHoverBackground": "#f0b7f0cc",
 		"statusBarItem.prominentForeground": "#dd71b9",
-		//"statusBarItem.remoteBackground": "#4e3c69",
+		"statusBarItem.compactHoverBackground": "#ecb8efaa",
+		"statusBarItem.remoteBackground": "#dd71b9",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBarItem.remoteHoverBackground": "#ebcbe0",
+		"statusBarItem.remoteHoverForeground": "#dd71b9",
 		// tab
 		"tab.activeBorder": "#dd71b9",
 		"editorGroupHeader.tabsBackground": "#f5eaf5",
@@ -465,6 +470,13 @@
 			],
 			"settings": {
 				"foreground": "#5782df"
+			}
+		},
+		{
+			"name": "CSS: Property Names",
+			"scope": ["meta.property-name", "support.type.property-name"],
+			"settings": {
+				"foreground": "#72696f"
 			}
 		},
 		{
