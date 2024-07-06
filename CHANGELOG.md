@@ -1,4 +1,21 @@
 # Change Log
+## `1`.`1`.`0` (2024.7.6)
+### Theme Colors
+- (Light) Specify git colors
+- (Dark) Add a little bg color when hovering list items
+- Add support for command center
+
+### Syntax Colors
+- Enable semantic highlighting
+- Add `punctuation.definition.variable` into punctuation group
+- Specify namespace, package, and keywords(ex. import, package) colors
+- Colour language-provided variables(ex. this, super...)
+- Recolour placeholder
+- Support CSS psuedo class and color value
+- (Dark) make operator lighter (to be not messy)
+- (Dark) Increase color lightness (green, blue, purple)
+
+
 ## `1`.`0`.`0` (2024.7.5)
 ### **✅NEW THEME** "Huacat Pink Dark"
 ### Other changes

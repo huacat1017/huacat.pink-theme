@@ -87,8 +87,11 @@
 		"gitDecoration.addedResourceForeground": "#62ad44",
 		"gitDecoration.conflictingResourceForeground": "#e2b213",
 		"gitDecoration.deletedResourceForeground": "#d14040",
-		"gitDecoration.ignoredResourceForeground": "#978c94",
+		"gitDecoration.stageDeletedResourceForeground": "#d14040",
+		"gitDecoration.ignoredResourceForeground": "#c4b5c0",
 		"gitDecoration.modifiedResourceForeground": "#5782df",
+		"gitDecoration.stageModifiedResourceForeground": "#5782df",
+		"gitDecoration.renamedResourceForeground": "#1c8b3a",
 		"gitDecoration.submoduleResourceForeground": "#9045d6",
 		"gitDecoration.untrackedResourceForeground": "#6ac0b9",
 		// input
@@ -202,6 +205,16 @@
 		"titleBar.inactiveBackground": "#f5eaf5",
 		"titleBar.inactiveForeground": "#978c94",
 
+		// command center
+		"commandCenter.background": "#d6c6d344",
+		"commandCenter.foreground": "#72696f",
+		"commandCenter.border": "#d4d4d4",
+		"commandCenter.activeBackground": "#d6c6d357",
+		"commandCenter.activeForeground": "#dd71b9",
+		"commandCenter.activeBorder": "#bfbfbf",
+		"commandCenter.inactiveForeground": "#978c94",
+		"commandCenter.inactiveBorder": "#e0e0e0",
+
 		"quickInput.background": "#f5eaf5",
 		// welcome page
 		"welcomePage.background": "#f5eaf5",
@@ -229,7 +242,8 @@
 			"name": "Punctuation",
 			"scope": [
 				"punctuation.separator",
-				"punctuation.terminator"
+				"punctuation.terminator",
+				"punctuation.definition.variable"
 			],
 			"settings": {
 				"foreground": "#dd71b9"
@@ -256,6 +270,27 @@
 			],
 			"settings":{
 				"foreground": "#e2b213",
+			}
+		},
+		{
+			"name": "Namespaces",
+			"scope": [
+				"entity.name.namespace"
+			],
+			"settings": {
+				"foreground": "#e2b213"
+			}
+		},
+		{
+			"name": "Java Import & Package",
+			"scope": [
+				"source.java storage.modifier.import",
+				"source.java storage.modifier.package",
+				"meta.embedded.block.java storage.modifier.import",
+        		"meta.embedded.block.java storage.modifier.package"
+			],
+			"settings": {
+				"foreground": "#e2b213"
 			}
 		},
 		{
@@ -288,6 +323,17 @@
 			}
 		},
 		{
+			"name": "Other Keywords (ex. import)",
+			"scope": [
+				"keyword.other",
+				"source.python keyword.control.import.python"
+			],
+			"settings": {
+				"foreground": "#db6363",
+				"fontStyle": ""
+			}
+		},
+		{
 			"name": "Type",
 			"scope":[
 				"storage.type",
@@ -305,11 +351,31 @@
 				"constant.language",
 				"constant.character",
 				"constant",
-				"keyword.other"
+				"source.css keyword.other.unit"
 			],
 			"settings": {
 				"foreground": "#db6363",
 				"fontStyle": ""
+			}
+		},
+		{
+			"name": "language-provided variables",
+			"scope":[
+				"variable.language"
+			],
+			"settings": {
+				"foreground": "#dd71b9",//#e381ec, #5fd494
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "language-provided variables (Makefile)",
+			"scope":[
+				"variable.language.makefile"
+			],
+			"settings": {
+				"foreground": "#ddac71",//#e381ec, #5fd494
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -330,6 +396,20 @@
 			}
 		},
 		{
+			"name": "Strings: Escape Sequences",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#559fe4"
+			}
+		},
+		{
+			"name": "Placeholders",
+			"scope": "constant.other.placeholder",
+			"settings": {
+				"foreground": "#559fe4"
+			}
+		},
+		{
 			"name": "Variable",
 			"scope": [
 				"support.variable",
@@ -337,13 +417,6 @@
 			],
 			"settings": {
 				"foreground": "#72696f"
-			}
-		},
-		{
-			"name": "Strings: Escape Sequences",
-			"scope": "constant.character.escape",
-			"settings": {
-				"foreground": "#559fe4"
 			}
 		},
 		{
@@ -498,6 +571,22 @@
 			}
 		},
 		{
+			"name": "CSS psuedo class",
+			"scope":[
+				"entity.other.attribute-name.pseudo-class"
+			],
+			"settings": {
+				"foreground": "#64afa9"
+			}
+		},
+		{
+			"name": "CSS color value",
+			"scope":"constant.other.color",
+			"settings": {
+				"foreground": "#dd71b9" 
+			}
+		},
+		{
 			"name": "CSS Selector",
 			"scope":[
 				"support.constant.property-value",
@@ -583,5 +672,6 @@
 				"fontStyle": "italic"
 			}
 		},
-	]
+	],
+	"semanticHighlighting": true
 }
