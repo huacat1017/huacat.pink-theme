@@ -1,4 +1,8 @@
 # Change Log
+## `1`.`1`.`1`
+### Theme Colors
+- (Dark) Make breadcrumb text and inactive tab text darker
+
 ## `1`.`1`.`0` (2024.7.6)
 ### Theme Colors
 - (Light) Specify git colors

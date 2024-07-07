@@ -23,6 +23,7 @@
 
 		"badge.background": "#d49cc160",
 		"badge.foreground": "#e6d5df",
+		"breadcrumb.foreground": "#9a7c92be",
 		"breadcrumb.focusForeground": "#d77db9d5",
 		"breadcrumb.activeSelectionForeground": "#d77db9",
 		"breadcrumbPicker.background": "#3d173d",
@@ -204,7 +205,7 @@
 		"tab.activeForeground": "#ffffff",
 		"tab.border": "#3d173d",
 		"tab.inactiveBackground": "#3d173d",
-		"tab.inactiveForeground": "#978c94",
+		"tab.inactiveForeground": "#9a7c92be",
 		// terminal
 		"terminal.ansiBlack": "#3d173d",
 		"terminal.ansiBrightBlack": "#978c94",
