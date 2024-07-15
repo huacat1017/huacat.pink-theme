@@ -1,4 +1,3 @@
-# Plan for 1.1.1
+# Plan for 1.1.2
 - git merge editor
-- editor Gutter (Git changes color)
 - Update README.md pictures

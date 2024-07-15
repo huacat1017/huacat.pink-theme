@@ -1,7 +1,12 @@
 # Change Log
-## `1`.`1`.`1`
+## `1`.`1`.`1` (2024.7.15)
 ### Theme Colors
 - (Dark) Make breadcrumb text and inactive tab text darker
+- (Dark) Lower the contrast of dropdown & input box bg
+- (Dark) Add more transparency to editor selection & word highlight bg
+- (Dark) Remove transparency of badge bg
+- (Dark) Adjust some git decoration colors
+- (Both) Specify some of editorGutter colors
 
 ## `1`.`1`.`0` (2024.7.6)
 ### Theme Colors
