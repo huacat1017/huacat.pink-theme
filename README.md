@@ -13,6 +13,8 @@
 ![html](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/html.png)
 ### CSS
 ![css](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/css.png)
+### JS
+![js](https://github.com/huacat1017/huacat.pink-theme/raw/master/syntax/js.png)
 ### Markdown
 ![markdown](https://github.com/huacat1017/huacat.pink-theme-0.0.1/raw/master/syntax/markdown.png)
 ### JSON

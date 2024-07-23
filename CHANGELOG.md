@@ -1,4 +1,7 @@
 # Change Log
+## `1`.`1`.`2` (2024.7)
+- Update images in [README.md]()
+
 ## `1`.`1`.`1` (2024.7.15)
 ### Theme Colors
 - (Dark) Make breadcrumb text and inactive tab text darker
