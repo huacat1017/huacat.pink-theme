@@ -1,5 +1,5 @@
 # Change Log
-## `1`.`1`.`2` (2024.7)
+## `1`.`1`.`2` (2024.8.5)
 - Update images in [README.md](https://github.com/huacat1017/huacat.pink-theme/commit/23fc8c23c3684c1110223831e05f2426e13939b0)
 - Add support for Markdown fenced code
 
