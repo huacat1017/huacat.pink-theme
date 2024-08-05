@@ -667,6 +667,24 @@
 			}
 		},
 		{
+			"name": "Markdown fenced code punctuation",
+			"scope":[
+				"text.html.markdown punctuation.definition.markdown"
+			],
+			"settings": {
+				"foreground": "#978c94"
+			}
+		},
+		{
+			"name": "Markdown fenced code language",
+			"scope":[
+				"text.html.markdown fenced_code.block.language"
+			],
+			"settings": {
+				"foreground": "#e2b213"
+			}
+		},
+		{
 			"name": "Markdown quote",
 			"scope":[
 				"markup.quote"
